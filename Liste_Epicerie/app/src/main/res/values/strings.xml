@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Liste d\'épicerie</string>
+    <string name="miseajour">dernière mise à jour introuvable.</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="afficher">Afficher</string>
+    <string-array name="spinnerCategorie">
+        <item>Fruits et légumes</item>
+        <item>Produits cérealiers</item>
+        <item>Lait et substituts</item>
+        <item>Viandes et substituts</item>
+    </string-array>
+</resources>
